@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#To check if 2 files have the same permissions
 a=$1
 b=$2
 set -- `ls -l $1`
