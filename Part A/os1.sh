@@ -1,4 +1,5 @@
 #!/bin/bash
+#To display the arguments in reverse
 
 if [ "$#" -eq 0 ]
 then
